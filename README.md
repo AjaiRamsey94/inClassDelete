@@ -1,0 +1,4 @@
+inClassDelete
+=============
+
+Example in class
